@@ -1,16 +1,8 @@
-# Wetter Widget HTML
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://marv379852.github.io/Wetter-Widget-f-r-Paderborn/)
-
-**Click above badge or visit**: https://marv379852.github.io/Wetter-Widget-f-r-Paderborn/
-
-**Single-click website** with live Paderborn weather:
+# Wetter Widget with HTML
 - Current temp/precip/wind
 - 24h temp graph
 - Daily forecast
 - Drag, refresh, mobile-ready
-
 No coding needed - just click & use! ☁️
-
-## Local run
+download `index.html`
 Double-click `index.html`
